@@ -90,3 +90,4 @@ MonoBehaviour:
   - Level/001/buttonPressEvent
   - Menu/End Level Menu/nextLevelButtonPressEvent
   - Menu/End Level Menu/mainMenuButtonPressEvent
+  - timer/5secTick

@@ -16,5 +16,8 @@ EditorBuildSettings:
     guid: 990d98cf2b3c0d342b4dc89035a4fd90
   - enabled: 1
     path: Assets/Scenes/Puzzle Scene/3 Puzzle Scene 002.unity
-    guid: 4472d7c6358945344ad26e72288a8a5b
+    guid: 8323f386ff7e4ad4eb14af5a477190fa
+  - enabled: 1
+    path: Assets/Scenes/Puzzle Scene/4 Puzzle Scene 003.unity
+    guid: 471ae053bf021894cb70fc0dd78303d7
   m_configObjects: {}
