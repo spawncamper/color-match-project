@@ -41,6 +41,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: PG Scene Loading screen
+    - useVariable: 1
+      name: Scene/Options Menu
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: PG Scene Options menu
     vector2Variables: []
     vector3Variables: []
     colorVariables:
@@ -90,7 +96,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - Menu/Main Menu/startGameButtonPress
   - Level/001/buttonPressEvent
@@ -101,3 +107,6 @@ MonoBehaviour:
   - Menu/Main Menu/continueButtonPress
   - Level/newLevelLoaded
   - Level/EscKeyPressEvent
+  - Menu/Main Menu/optionsButtonPressEvent
+  - Menu/Options Menu/resetProgressButtonPress
+  - Menu/Options Menu/mainMenuButtonPressEvent
