@@ -4316,8 +4316,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1882587050750616140, guid: e653d42b5550949409c6d8adf8fa2d89,
         type: 3}
+      propertyPath: fsm.editorFlags
+      value: 225
+      objectReference: {fileID: 0}
+    - target: {fileID: 1882587050750616140, guid: e653d42b5550949409c6d8adf8fa2d89,
+        type: 3}
       propertyPath: fsm.variables.stringVariables.Array.data[0].value
       value: PG Scene Level 003
+      objectReference: {fileID: 0}
+    - target: {fileID: 1882587050750616140, guid: e653d42b5550949409c6d8adf8fa2d89,
+        type: 3}
+      propertyPath: fsm.variables.stringVariables.Array.data[1].value
+      value: PG Scene Level 004
       objectReference: {fileID: 0}
     - target: {fileID: 1882587050750616141, guid: e653d42b5550949409c6d8adf8fa2d89,
         type: 3}
