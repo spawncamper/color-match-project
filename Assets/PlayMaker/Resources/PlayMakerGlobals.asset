@@ -28,13 +28,19 @@ MonoBehaviour:
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 1 Puzzle Scene Main menu
+      value: PG Scene Main menu
     - useVariable: 1
       name: Scene/Level/001
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 2 Puzzle Scene 001
+      value: PG Scene Level 001
+    - useVariable: 1
+      name: Scene/Loading screen
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: PG Scene Loading screen
     vector2Variables: []
     vector3Variables: []
     colorVariables:
@@ -84,10 +90,14 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - Menu/Main Menu/startGameButtonPress
   - Level/001/buttonPressEvent
   - Menu/End Level Menu/nextLevelButtonPressEvent
   - Menu/End Level Menu/mainMenuButtonPressEvent
   - timer/5secTick
+  - Menu/Main Menu/quitGameButtonPress
+  - Menu/Main Menu/continueButtonPress
+  - Level/newLevelLoaded
+  - Level/EscKeyPressEvent
