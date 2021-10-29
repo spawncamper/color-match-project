@@ -80,6 +80,48 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: {r: 1, g: 0, b: 0.8489032, a: 1}
+    - useVariable: 1
+      name: Color/Red
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 1, g: 0, b: 0, a: 1}
+    - useVariable: 1
+      name: Color/Orange
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0.8396226, g: 0.45661166, b: 0.09109115, a: 1}
+    - useVariable: 1
+      name: Color/Yellow
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0.9716981, g: 0.9648662, b: 0, a: 1}
+    - useVariable: 1
+      name: Color/Green
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0.11294055, g: 0.509434, b: 0.14931624, a: 1}
+    - useVariable: 1
+      name: Color/Blue
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0.4198113, g: 0.42672798, b: 1, a: 1}
+    - useVariable: 1
+      name: Color/Navy
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0.13937344, g: 0.15083785, b: 0.33962262, a: 1}
+    - useVariable: 1
+      name: Color/Purple
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0.9056604, g: 0.089711644, b: 0.66404736, a: 1}
     rectVariables: []
     quaternionVariables: []
     gameObjectVariables:
@@ -96,7 +138,7 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    variableCategoryIDs: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   events:
   - Menu/Main Menu/startGameButtonPress
   - Level/001/buttonPressEvent
