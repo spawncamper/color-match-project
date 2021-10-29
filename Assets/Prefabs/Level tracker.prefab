@@ -122,11 +122,11 @@ MonoBehaviour:
         layoutOptionParams: []
         fsmStringParams:
         - useVariable: 1
-          name: levelNameString
+          name: nextLevelNameString
           tooltip: 
           showInInspector: 1
           networkSync: 0
-          value: PG Scene Level 001
+          value: 
         fsmObjectParams:
         - useVariable: 1
           name: 
