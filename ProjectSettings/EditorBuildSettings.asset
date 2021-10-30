@@ -9,9 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Puzzle Scene/PG Scene Core.unity
     guid: 839487759d9b6af4b9af2792babdad76
   - enabled: 1
-    path: Assets/Scenes/Puzzle Scene/PG Scene Options menu.unity
-    guid: fc0b835f0fe7b11428f595a1e965a28c
-  - enabled: 1
     path: Assets/Scenes/Puzzle Scene/PG Scene Level 001.unity
     guid: 990d98cf2b3c0d342b4dc89035a4fd90
   - enabled: 1
@@ -24,9 +21,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Puzzle Scene/PG Scene Level 004.unity
     guid: bdf7c4d7efaf84f4ba572233ff799d49
   - enabled: 1
+    path: Assets/Scenes/Puzzle Scene/PG Scene Level 005.unity
+    guid: 7f096815a59221b4e979a99c41957592
+  - enabled: 1
     path: Assets/Scenes/Puzzle Scene/PG Scene Loading screen.unity
     guid: 1391aefe675f4f146af8bd6de04d6580
   - enabled: 1
     path: Assets/Scenes/Puzzle Scene/PG Scene Main menu.unity
     guid: d26127992efa2a9499b7e3d12f7bcdee
+  - enabled: 1
+    path: Assets/Scenes/Puzzle Scene/PG Scene Options menu.unity
+    guid: fc0b835f0fe7b11428f595a1e965a28c
   m_configObjects: {}
